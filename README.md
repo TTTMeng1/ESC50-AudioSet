@@ -1,1 +1,2 @@
 # ESC50-AudioSet
+In the article entitled "Cross-Category Zero-Shot Audio Classification via Generative Learning on Reconstructed Auditory Description", a test set constructed by a subset of samples from the AudioSet dataset is employed to conduct a comprehensive evaluation of various methods. The partial samples derived from the AudioSet dataset utilized in this study are presented in File AudioSet_sample_40.csv.
